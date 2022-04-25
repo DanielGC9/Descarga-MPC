@@ -1,3 +1,3 @@
 # Descarga-MPC
 
-Programa realizado para la tesis del papu
+Programa realizado para descargar datos Observacionales y Efmérides del Minor Planet Center
